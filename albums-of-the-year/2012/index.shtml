@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <!--#include virtual="../header.htm"-->
+  <title>Burkazoid's Albums of 2012</title>
+</head>
+
+<body>
+  <div id="container">
+
+    <h1>Albums of 2012</h1>
+
+    <div class="album-entry">
+	  <div class="album-number">10</div>
+      <div class="album-name">
+        <div class="artist">The Cast of Cheers</div>
+        <div class="title">Family</div>
+      </div>
+	  <div class="album-blurb">Like an Irish Bloc Party, only better.</div>
+      <div class="album-cover"><img src="images/10.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/4cuLYNG0kp7ESHSH8d9ydh">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=oMxAEn3Owlg">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Animals"
+		</a>
+	  </div>
+    </div>
+
+    <div class="album-entry">
+	  <div class="album-number">9</div>
+      <div class="album-name">
+        <div class="artist">Tall Ships</div>
+        <div class="title">Everything Touching</div>
+      </div>
+	  <div class="album-blurb">Energetic, atmospheric indie rock.</div>
+      <div class="album-cover"><img src="images/9.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7Ebk3bdGEtS4vpLOJtK7JK">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=Wa4Y8RO590A">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Gallop"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">8</div>
+      <div class="album-name">
+        <div class="artist">Alt-J</div>
+        <div class="title">An Awesome Wave</div>
+      </div>
+	  <div class="album-blurb">Melodic, soulful, laid back rock with jazz influences. Fantastic lyrics too.</div>
+      <div class="album-cover"><img src="images/8.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7HOzvP7Ta2lLueojdlJtdZ">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=Qg6BwvDcANg">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Tessellate"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">7</div>
+      <div class="album-name">
+        <div class="artist">Orbital</div>
+        <div class="title">Wonky</div>
+      </div>
+	  <div class="album-blurb">One hell of a rave party - Orbital back on form. One of my highlights of the year was seeing them tear the Ulster Hall apart.</div>
+      <div class="album-cover"><img src="images/7.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/4INKaafecsV0LeBSwvVLaG">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=E9USCcjfNm8">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Straight Sun"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">6</div>
+      <div class="album-name">
+        <div class="artist">Beach House</div>
+        <div class="title">Bloom</div>
+      </div>
+	  <div class="album-blurb">Blissful, sun-kissed, melodic dream pop.</div>
+      <div class="album-cover"><img src="images/6.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/0SlsS6n3S5VkXiy9GBLFtp">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=BfzFVbkutFE">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Lazuli"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">5</div>
+      <div class="album-name">
+        <div class="artist">The Tallest Man on Earth</div>
+        <div class="title">There's No Leaving Now</div>
+      </div>
+	  <div class="album-blurb">Evocative Swedish folk. Always draws comparisons to Bob Dylan.</div>
+      <div class="album-cover"><img src="images/5.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/5HTH7wPz78w3VfA1AdRWzf">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=6Cnf6EdGrsM">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Wind and Walls"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">4</div>
+      <div class="album-name">
+        <div class="artist">Caspian</div>
+        <div class="title">Waking Season</div>
+      </div>
+	  <div class="album-blurb">Melodic and atmospheric instrumental rock: Sigur Ros meets Explosions in the Sky.</div>
+      <div class="album-cover"><img src="images/4.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/6enixSg09cdRYDBllZ8axv">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=KISx8cXHnuQ">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Waking Season (Live)"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">3</div>
+      <div class="album-name">
+        <div class="artist">Cloud Nothings</div>
+        <div class="title">Attack on Memory</div>
+      </div>
+	  <div class="album-blurb">Energetic pop punk. Worth checking out for "Wasted Days" alone.</div>
+      <div class="album-cover"><img src="images/3.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/4aKM77gbrLlDK5egwbmosm">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=T_zRt_EmqoU">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Stay Useless"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">2</div>
+      <div class="album-name">
+        <div class="artist">Japandroids</div>
+        <div class="title">Celebration Rock</div>
+      </div>
+	  <div class="album-blurb">Like a teenage Bruce Springsteen garage punk band. Sing-a-long punk songs about staying young and free forever.</div>
+      <div class="album-cover"><img src="images/2.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/5XZBeAdiSCTEjAe6TTStya">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=TRVCtbfuDqw">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "The House That Heaven Built"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">1</div>
+      <div class="album-name">
+        <div class="artist">Efterklang</div>
+        <div class="title">Piramida</div>
+      </div>
+	  <div class="album-blurb">
+	    Relaxing, atmospheric, powerful indie rock. Every time I listen to this album I discover a ton of new detail.
+	    Featuring sounds recorded in the desolate Russian town of Piramida, this album is a perfectly produced
+		masterpiece. Headphones on please.
+      </div>
+      <div class="album-cover"><img src="images/1.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/6IsCOalvnAxZbDseDoG1ep">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=wTG1f7Uhldo">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Dreams Today"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-honourable">Playlist</div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/user/burkazoid/playlist/4NwPS6KL8uvJGsFon5l2VB">
+		  <i class="icon-music"></i>
+		  Listen on Spotify to a playlist of my top tracks of 2012
+	    </a>
+	  </div>
+    </div>
+
+	<!--#include virtual="../all-years.htm"-->
+
+  </div>
+</body>
+</html>
+
+

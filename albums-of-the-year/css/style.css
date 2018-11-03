@@ -1,0 +1,133 @@
+body {
+  font-family: 'PT Serif', sans-serif;
+  color: #000;
+}
+
+#container {
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  margin: 0 0 50px 0;
+  font-weight: 700;
+  font-size: 80px;
+  text-align: center;
+}
+
+.album-entry {
+  margin-bottom: 80px;
+}
+
+.album-number {
+  background-color: #D52151;
+  color: #fff;
+  font-size: 65px;
+  margin-bottom: 0;
+  position: absolute;
+  width: 100px;
+  text-align: center;
+  padding-top: 5px;
+  height: 95px;
+}
+
+.album-honourable {
+  color: #378ABC;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.album-name {
+  font-size: 32px;
+  margin-bottom: 10px;
+  min-height: 95px;
+  padding-left: 120px;
+  padding-top: 5px;
+}
+
+.artist {
+  color: #378ABC;
+  font-weight: 700;
+}
+
+.title {
+  color: #000;
+}
+
+.album-links {
+  font-size: 20px;
+}
+
+a {
+  color: #D52151;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F2517C;
+}
+
+.album-links a {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.album-links .not-on-spotify i {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+i {
+  width: 25px;
+  font-size: 1.1em;
+}
+
+.album-cover {
+  margin-bottom: 10px;
+}
+
+.album-cover img {
+  width: 100%;
+}
+
+.album-blurb {
+  margin-bottom: 15px;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+#view-other-years {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 22px;
+  line-height: 22px;
+}
+
+a.index-year, #view-other-years a {
+  padding: 5px 10px;
+  background-color: #D52151;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+a.index-year:hover, #view-other-years a:hover {
+  background-color: #F2517C;
+}
+
+#index-year-container {
+  font-size: 0;
+  margin: auto;
+  width: 540px;
+}
+
+.index-year {
+  display: inline-block;
+  font-size: 48px;
+  text-align: center;
+  width: 150px;
+  margin: 5px;
+}

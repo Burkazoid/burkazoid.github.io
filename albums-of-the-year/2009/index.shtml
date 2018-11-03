@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <!--#include virtual="../header.htm"-->
+  <title>Burkazoid's Albums of 2009</title>
+</head>
+
+<body>
+  <div id="container">
+
+    <h1>Albums of 2009</h1>
+
+    <div class="album-entry">
+	  <div class="album-number">10</div>
+      <div class="album-name">
+        <div class="artist">Kevin Devine</div>
+        <div class="title">Brother's Blood</div>
+      </div>
+	  <div class="album-blurb">Brooklyn song-writer Kevin Devine recently caught my attention (yes, I'm a bit late to the party), thanks to the fact that he often tours with Jesse Lacey, frontman of Brand New, a band who I'm a rather big fan of. Despite this association, Kevin's folk sound is rather distant from said band, falling more in line with the likes of Elliott Smith.  Brother's Blood's sound ranges from stripped down acoustics to 8 minute long dynamic guitar-driven anthems, and certainly isn't short on emotion. Gutted I missed Kevin performing in Dublin earlier this year along with Manchester Orchestra.</div>
+      <div class="album-cover"><img src="images/10.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/0A5kPEKtUCSrbZMKGLGUvu">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=vGDMfs3McJs">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Time to Burn (Another Bag of Bones)"
+		</a>
+	  </div>
+    </div>
+
+    <div class="album-entry">
+	  <div class="album-number">9</div>
+      <div class="album-name">
+        <div class="artist">Frank Turner</div>
+        <div class="title">Poetry of the Deed</div>
+      </div>
+	  <div class="album-blurb">Frank Turner's third full-length solo album brings more solid folk songs from the English Ex-Million Dead frontman, covering the usual Turner subjects of life on the road, partying with friends and discontent with the government and society in general. Whilst not quite as good as previous album "Love, Ire & Song", it remains a solid mix of upbeat sing-a-longs (The Road, Poetry of the Deed), reflective ballads (Isabel, Faithful Son) and rants (Sons of Liberty, Try This At Home).</div>
+      <div class="album-cover"><img src="images/9.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/4I03nlaCR5k3lYyK1WhUFd">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=NhFc5kmC-DA">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "The Loneliness & The Scream"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">8</div>
+      <div class="album-name">
+        <div class="artist">Mono</div>
+        <div class="title">Hymn To The Immortal Wind</div>
+      </div>
+	  <div class="album-blurb">First instrumental album of the chart and its a band who are definitely no strangers in the 'post-rock' scene.  I never really got into Mono before, but decided to give this album a go regardless.  Opening track Ashes in the Snow (featured below) really grabbed my attention: a beautiful 11 minute epic with sweeping guitar crescendos, crashing drums and emotionally powerful melodies.  It turns out this description can pretty much be used to describe most of the album. A great way to lose yourself for an hour.</div>
+      <div class="album-cover"><img src="images/8.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/3N6gzgDqwqJ1025MtA43ru">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=-8Juilrg6oQ">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Ashes in the Snow"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">7</div>
+      <div class="album-name">
+        <div class="artist">Fuck Buttons</div>
+        <div class="title">Tarot Sport</div>
+      </div>
+	  <div class="album-blurb">Last year's debut album from Fuck Buttons, entitled "Street Horrrsing" didn't sit quite right with me.  It showed potential, but lacked substance and overall just sounded too much like noise and not much else.  Their second album "Tarot Sport" sees the Bristol-based electronic duo team up with electronic veteran Andrew Weatherall. This time they really nail it.  There is an obvious difference in clarity with this album, with tracks being much more structured and melodic - more like songs, as opposed to just noise.  Highlights include the thumping opener Surf Solar (featured below), the euphoric Olympians and closer Flight of the Feathered Serpent.  If you didn't quite get Fuck Buttons the first time around, give them another go.</div>      <div class="album-cover"><img src="images/7.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7tilRUU7WANATJdxhMO3p8">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=OFbE3lHTcuo">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Surf Solar"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">6</div>
+      <div class="album-name">
+        <div class="artist">Caspian</div>
+        <div class="title">Tertia</div>
+      </div>
+	  <div class="album-blurb">Caspian are an instrumental band somewhat typical of 'post-rock', yet they manage to stand out from many others thanks to their ability to create great melodies.  Ever since the excellent You Are the Conducter, Caspian have been very much consistent with their releases and Tertia is certainly no exception.  From the atmospheric opening of Mie, right through to the epic closer Sycamore, Tertia somehow manages to keep a fresh sound in a formula that has been almost done to death.</div>
+      <div class="album-cover"><img src="images/6.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/67bKF6sqY1Z26o7nRHNbIT">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=_dP0-Lr8VxQ">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Sycamore"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">5</div>
+      <div class="album-name">
+        <div class="artist">Phoenix</div>
+        <div class="title">Wolfgang Amadeus Phoenix</div>
+      </div>
+	  <div class="album-blurb">My first encounter with Phoenix was Too Young, a standout track on the "Lost in Translation" film soundtrack. Their latest album Wolfgang Amadeus Phoenix is a great collection of uplifting pop-rock tracks, extremely easy to tap your foot to and extremely difficult to dislike. </div>
+      <div class="album-cover"><img src="images/5.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/6VDta3vxO3l3liDTqC121n">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=4BJDNw7o6so">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Lisztomania"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">4</div>
+      <div class="album-name">
+        <div class="artist">Brand New</div>
+        <div class="title">Daisy</div>
+      </div>
+	  <div class="album-blurb">Brand New's fourth album was always going to be difficult to deliver on - after all, how do you follow the classic Deja Entendu and almost equally excellent The Devil and God Are Raging Inside Me? Well, Daisy isn't a bad attempt at trying. This time around the band have delegated song-writing duties out a bit more, rather than Jesse Lacey writing the large majority of songs. Whether or not this is the reason for the album not quite reaching the heights of its predecessors we can never be sure, but Daisy still holds quite a few moments of greatness - At The Bottom, You Stole and Bought a Bride are all top notch Brand New tracks.  Despite sometimes feeling a bit lazy, Daisy's prime moments still place it as one of the albums of the year.</div>
+      <div class="album-cover"><img src="images/4.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/0Y8HZ5l1A03EhGySqYaEib">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=p03JSRyqoY8">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "At The Bottom"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">3</div>
+      <div class="album-name">
+        <div class="artist">...And You Will Know Us By The Trail of Dead</div>
+        <div class="title">The Century of Self</div>
+      </div>
+	  <div class="album-blurb">Trail of Dead pull off a real return to form with The Century of Self, following a couple of lackluster albums.  My expectations for this album weren't exactly high, but I was pleasantly surprised.  The album starts on a real high, with the instrumental opener Giants Causeway leading into Far Pavillions, then on to the highlight track of the album Isis Unveiled (featured below).  Elsewhere on the album there are plenty more highlights: Bells of Creation and Ascending see the band in fine rocking form, whilst quieter moments like Luna Park and Insatiable fully showcase the band's flexibility when it comes to writing great songs. A must-get album, with fantastic artwork too.</div>
+      <div class="album-cover"><img src="images/3.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/1tDD6mZsKEkU2FJJDUkaq1">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=w_sxdcvylFI">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Isis Unveiled"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">2</div>
+      <div class="album-name">
+        <div class="artist">And So I Watch You From Afar</div>
+        <div class="title">And So I Watch You From Afar</div>
+      </div>
+	  <div class="album-blurb">This is a full on, balls out instrumental punk rock fest that, even now after a year of listening to, I still find myself stomping and rocking along to regardless of where I am or what I'm doing.  As I mentioned in the review, these guys really have to be seen live to appreciate, so should the opportunity arise for you - do it.</div>
+      <div class="album-cover"><img src="images/2.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/293Wus8stjhkMF1gcPvZaa">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=OEKkkhJCjcM">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Set Guitars To Kill"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">1</div>
+      <div class="album-name">
+        <div class="artist">The Antlers</div>
+        <div class="title">Hospice</div>
+      </div>
+	  <div class="album-blurb">
+	    <p>New York three-piece The Antlers is the brainchild of Peter Silberman, who initially started the project as a solo endeavour.  Hospice was initially self-released by the band in March of this year, selling a huge number of copies, and later signed by French Kiss Records who released a remastered version of the album in August.</p>
+	    <p>The album is a haunting tale of meeting and falling in love with a cancer patient, caring for them and having to experience their from the bedside.  It deals with experiences while the patient is still alive and the memories, nightmares and loneliness that occur once they are gone.  It should definitely be noted that, given the concept, this isn't an easy album to listen to on an emotional level, particularly for those who have lost someone close to them.</p>
+	    <p>Musically, the album is a mixture of both sweeping ambience and more upbeat (musically that is) anthemic tracks, often simplistic in nature but beautifully produced with a very progressive, almost Pink Floyd style layering that adds huge depth to the experience.</p>
+	    <p>Its been a long time since I found an album that really stirred so much emotion in me.  I have been lucky enough never to have lost anyone so close to me, and yet this album still connects and evokes all sorts of feelings each time I listen to it.  In particular, the albums closer, Epilogue, is ridiculously beautiful and moving.  I was fortunate to catch the guys playing in Dublin in October, which was a fantastic experience given that they played Hospice in its entirety.</p>
+	    <p>It was difficult to select a track to place at the bottom of this post, as I really feel Hospice needs to be heard in its entirety to appreciate just how great The Antlers are. Please do yourself a favour and check this album out.  It may take a few listens, but in the end you may find yourself listening to one of your favourite albums of recent times like I did.  </p>
+      </div>
+      <div class="album-cover"><img src="images/1.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/11KKEbRvzj7Al3XAfNK22n">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=YESdx5AHyJc">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Bear"
+		</a>
+	  </div>
+    </div>
+
+	<!--#include virtual="../all-years.htm"-->
+
+  </div>
+</body>
+</html>
+
+

@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <!--#include virtual="../header.htm"-->
+  <title>Burkazoid's Albums of 2011</title>
+</head>
+
+<body>
+  <div id="container">
+
+    <h1>Albums of 2011</h1>
+
+    <div class="album-entry">
+	  <div class="album-number">10</div>
+      <div class="album-name">
+        <div class="artist">Mogwai</div>
+        <div class="title">Hardcore Will Never Die, But You Will</div>
+      </div>
+	  <div class="album-blurb">Atmospheric instrumental rock.</div>
+      <div class="album-cover"><img src="images/10.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7w4z35rOtFKt9gHRTU6Qil">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=GrIRcB0x4iU">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "How to Be A Werewolf"
+		</a>
+	  </div>
+    </div>
+
+    <div class="album-entry">
+	  <div class="album-number">9</div>
+      <div class="album-name">
+        <div class="artist">Tycho</div>
+        <div class="title">Dive</div>
+      </div>
+	  <div class="album-blurb">Beautiful, intelligent electronic music with plenty of melody and soul.</div>
+      <div class="album-cover"><img src="images/9.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/6iifStu15tLyF6p2anUh3c">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=mehLx_Fjv_c">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Dive"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">8</div>
+      <div class="album-name">
+        <div class="artist">And So I Watch You From Afar</div>
+        <div class="title">Gangs</div>
+      </div>
+	  <div class="album-blurb">Thrashing, fun, upbeat instrumental rock from Ireland's finest.</div>
+      <div class="album-cover"><img src="images/8.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/28kNvDOlw91L2uZYjYNUSa">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=RLafUk_cV98">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "7 Billion People All Alive At Once"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">7</div>
+      <div class="album-name">
+        <div class="artist">King Creosote &amp; Jon Hopkins</div>
+        <div class="title">Diamond Mine</div>
+      </div>
+	  <div class="album-blurb">Dreamy folk infused with electronica. Warming yet wistful. Jon Hopkins never fails.</div>
+      <div class="album-cover"><img src="images/7.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/5jdm2D6gY3GQXGmVRTKBZN">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=M-Lr0igwLIY">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Bubble"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">6</div>
+      <div class="album-name">
+        <div class="artist">Frank Turner</div>
+        <div class="title">England Keep My Bones</div>
+      </div>
+	  <div class="album-blurb">English folk music about... er... England. Varies from upbeat rowdiness to yearning regret.</div>
+      <div class="album-cover"><img src="images/6.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/0X1YJo2GBBQCeLsZXbTCAm">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=vvxUakzHZcM">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "If Ever I Stray"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">5</div>
+      <div class="album-name">
+        <div class="artist">...And You Will Know Us By The Trail of Dead</div>
+        <div class="title">Tao of the Dead</div>
+      </div>
+	  <div class="album-blurb">Return to form for the Trail of Dead lads, with a more progressive rock style album.</div>
+      <div class="album-cover"><img src="images/5.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/2Z7jmp0gvmuQqaRJ5ntpe0">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=WwQoX826gXk">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Pure Radio Cosplay"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">4</div>
+      <div class="album-name">
+        <div class="artist">Youth Lagoon</div>
+        <div class="title">The Year of Hibernation</div>
+      </div>
+	  <div class="album-blurb">Powerful, lump-in-the-throat inducing intimate dream pop.</div>
+      <div class="album-cover"><img src="images/4.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7k7kS5CQw36SuRGraHbsVw">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=hEDPdybOeU4">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "July"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">3</div>
+      <div class="album-name">
+        <div class="artist">M83</div>
+        <div class="title">Hurry Up, We're Dreaming</div>
+      </div>
+	  <div class="album-blurb">Ridiculously epic electronica with plenty of anthemic qualities.</div>
+      <div class="album-cover"><img src="images/3.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/6MBuQugGuX7VMBX0uiBnAQ">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=DJQQrjVmQG0">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Reunion"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">2</div>
+      <div class="album-name">
+        <div class="artist">Bon Iver</div>
+        <div class="title">Bon Iver, Bon Iver</div>
+      </div>
+	  <div class="album-blurb">Beautiful indie folk in a perfectly constructed album. Seeing these guys live was my highlight of the year.</div>
+      <div class="album-cover"><img src="images/2.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7pTARJYCVO49nFXB1Mo5re">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=TWcyIpul8OE">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Holocene"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">1</div>
+      <div class="album-name">
+        <div class="artist">The Antlers</div>
+        <div class="title">Burst Apart</div>
+      </div>
+	  <div class="album-blurb">
+	    A fantastic follow-up to the amazingly heart-wrenching "Hospice" - whilst not topping said album (I'm not sure
+		anything ever could), "Burst Apart" continues to show The Antlers' ability to write fantastic songs with intelligent
+		poetic lyrics.
+      </div>
+      <div class="album-cover"><img src="images/1.jpg" /></div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/album/7JbKzvSocR9gZHKTnLAe3v">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="http://www.youtube.com/watch?v=wsOgFgc5f5w">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: "Putting the Dog to Sleep"
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-honourable">Playlist</div>
+      <div class="album-links">
+		<a href="http://open.spotify.com/user/burkazoid/playlist/1lEfE8O8RdFij8L9oBcBz3">
+		  <i class="icon-music"></i>
+		  Listen on Spotify to a playlist of my top tracks of 2011
+	    </a>
+	  </div>
+    </div>
+
+	<!--#include virtual="../all-years.htm"-->
+
+  </div>
+</body>
+</html>
+
+

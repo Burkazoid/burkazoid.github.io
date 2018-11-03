@@ -1,0 +1,363 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <!--#include virtual="../header.htm"-->
+  <title>Burkazoid's Albums of 2015</title>
+</head>
+
+<body>
+  <div id="container">
+
+    <h1>Albums of 2015</h1>
+
+    <div class="album-entry">
+	  <div class="album-number">10</div>
+      <div class="album-name">
+		<div class="artist">Grimes</div>
+		<div class="title">Art Angels</div>
+	  </div>
+	  <div class="album-blurb">
+	    On Grimes' 2012 album <i>Visions</i>, standout tracks like <i>“Genesis”</i> and <i>“Oblivion”</i> amply demonstrated Canadian born Claire Boucher's
+		talent for catchy synth-pop with more than its fair share of idiosyncrasies. Follow-up <i>Art Angels</i> is, for the most part, a much 
+		more accessible pop record than previous albums, but simultaneously a pop album that only Grimes could produce - proof that pop 
+		need not remain free of complexity and thought to be catchy and fun.
+      </div>
+      <div class="album-cover"><img src="images/10.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=N9XKLqGqwLA">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: “REALiTi (demo)”
+		</a>
+	  </div>
+    </div>	
+	
+    <div class="album-entry">
+	  <div class="album-number">9</div>
+      <div class="album-name">
+		<div class="artist">Lone Wolf</div>
+		<div class="title">Lodge</div>
+	  </div>
+	  <div class="album-blurb">
+	    Lone Wolf is the alias of Leeds-based Paul Marshall who makes soulful and wistful "art-pop". On recording <i>Lodge</i>, Marshall 
+		locked himself away for six days in a soon to be disbanded studio (called 'The Lodge', hence the title), a small converted barn 
+		in the middle of nowhere - somewhere where Marshall felt the ability to lift the veil of his increasing anxiety. The result
+		is a stripped-back, beautiful and soulful piano-dominated record which very much wears its heart on its sleeve.
+      </div>
+      <div class="album-cover"><img src="images/9.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/3iLaB4GeytYzSPrLJzaX3o">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://vimeo.com/122475554">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Vimeo: “Mistakes (Live in-studio)”
+		</a>
+	  </div>
+    </div>
+
+
+
+	<div class="album-entry">
+	  <div class="album-number">8</div>
+      <div class="album-name">
+		<div class="artist">Steve Hauschildt</div>
+		<div class="title">Where All is Fled</div>
+	  </div>
+	  <div class="album-blurb">
+	    <i>Where All is Fled</i> is the first solo album from Steve Hauschildt in three years. Formerly a member of experimental
+		electronic trio <i>Emeralds</i>, Hauschildt masterfully crafts a sublime cosmic journey through a limitless, abstract universe
+		using emotive ambient melodies and sweeping arpeggios.
+	  </div>
+      <div class="album-cover"><img src="images/8.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=1tsGy40PFqE">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: “Anesthesia”
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">7</div>
+      <div class="album-name">
+		<div class="artist">Vessels</div>
+		<div class="title">Dilate</div>
+	  </div>
+	  <div class="album-blurb">
+	    <i>Dilate</i> finds Vessels, formerly a band placed firmly in the 'post-rock' genre bracket, making a distinct shift in sound
+		to more club-orientated, electronic pastures, oozing influence from the likes of Nathan Fake, James Holden and Modeselektor. 
+		In place of swelling guitar crescendos are swirling and twisting electronic textures, rich in melody, atmosphere and
+		complexity - not to mention danceability (that's totally a word).
+	  </div>
+      <div class="album-cover"><img src="images/7.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/7yapNLdtqlYiGFbuEuGRIt">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=7h9z2VjTZ9E">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: “Elliptic”
+		</a>
+	  </div>
+    </div>
+
+    <div class="album-entry">
+      <div class="album-number">6</div>
+      <div class="album-name">
+        <div class="artist">Turnover</div>
+        <div class="title">Peripheral Vision</div>
+      </div>
+      <div class="album-blurb">
+        Virginia Beach's Turnover's first album, <i>Magnolia</i>, was a fairly straightforward pop-punk affair. With this
+		follow-up, Turnover have refined their song-writing, becoming more wistful, heartfelt and reflective, 
+		showing signs of emo influence from the likes of American Football and Moving Mountains, as well as indie outfits like Wild 
+		Nothing and Real Estate. On the whole, <i>Peripheral Vision</i> is a tender reflection of angst-filled college days,
+		taking stock of the personal struggles and complexities of growing up.
+      </div>
+      <div class="album-cover"><img src="images/6.jpg" /></div>
+      <div class="album-links">
+        <a href="https://open.spotify.com/album/1v7hBIWUmfhggbxYd9HIW7">
+          <i class="icon-music"></i>
+          Listen on Spotify
+        </a>
+        <a href="https://www.youtube.com/watch?v=t3xIADK-Sjw">
+          <i class="icon-facetime-video"></i>
+          Watch on Youtube: “Humming”
+        </a>
+      </div>
+    </div>
+	
+    <div class="album-entry">
+      <div class="album-number">5</div>
+      <div class="album-name">
+        <div class="artist">Foxing</div>
+        <div class="title">Dealer</div>
+      </div>
+      <div class="album-blurb">
+        <i>Dealer</i> was my first encounter with Missouri band Foxing. Having checked out their debut album since then, it feels like, similar to the 
+		Turnover album above, Foxing have taken a giant step in the maturity of their song-writing with their second album. <i>Dealer</i> is a raw, atmospheric and emotive record, merging
+		both elements of emo-style songwriting (think <i>Brand New</i>) and shimmering post-rock textures and crescendos (think <i>Explosions in the Sky</i>) to form a complex, intense 
+		and evocative record.
+      </div>
+      <div class="album-cover"><img src="images/5.jpg" /></div>
+      <div class="album-links">
+        <a href="https://open.spotify.com/album/1tLQm6il4wbkPOgRH1xO50">
+          <i class="icon-music"></i>
+          Listen on Spotify
+        </a>
+        <a href="https://www.youtube.com/watch?v=doBAHzV0itY">
+          <i class="icon-facetime-video"></i>
+          Watch on Youtube: “Night Channels”
+        </a>
+      </div>
+    </div>	
+	
+    <div class="album-entry">
+      <div class="album-number">4</div>
+      <div class="album-name">
+        <div class="artist">Public Service Broadcasting</div>
+        <div class="title">The Race for Space</div>
+      </div>
+      <div class="album-blurb">
+        London duo Public Service Broadcasting have a good knack for combining electronic pop sensibilities with
+		samples from public information movies and radio broadcasts. <i>The Race for Space</i>, as the name suggests,
+		is themed around the American / Soviet space race, using samples from the British Film Institute to tell
+		both the success and horror stories from both sides of the race. Sample-driven music can quite often become
+		tiresome, but the variety of the instrumentals on offer provide an ever-changing thrilling journey: from the
+		minimal techno pulses of <i>"Sputnik"</i>, to the hip-shaking funk of <i>"Gagarin"</i>, to the goosebump inducing
+		triumph of regaining contact in <i>"The Other Side"</i>. I had the privilege of seeing J Willgoose from the
+		band present a lecture on the making of the album during Belfast Science Week, which only served to reinforce how
+		meticulously the audio archives available were perused and woven with the instrumentation. It's an album
+		which excites and inspires, highlighting mankind's many challenges and accomplishments in exploring the unknown,
+		something which deserves to be celebrated and continued into the far reaches of the Universe.
+      </div>
+      <div class="album-cover"><img src="images/4.jpg" /></div>
+      <div class="album-links">
+        <a href="https://open.spotify.com/album/65KwtzkJXw7oT819NFWmEP">
+          <i class="icon-music"></i>
+          Listen on Spotify
+        </a>
+        <a href="https://www.youtube.com/watch?v=BHIo6qwJarI">
+          <i class="icon-facetime-video"></i>
+          Watch on Youtube: “Go!”
+        </a>
+      </div>
+    </div>
+
+    <div class="album-entry">
+      <div class="album-number">3</div>
+      <div class="album-name">
+        <div class="artist">The Mountain Goats</div>
+        <div class="title">Beat the Champ</div>
+      </div>
+      <div class="album-blurb">
+        As a kid, I have many memories of excitedly jumping around the living room while watching WWF wrestling (now WWE), a passion
+		which died out as I got older, but which I still look back on fondly. So, when I heard one of my favourite bands, The Mountain
+		Goats, were writing an album based around professional wrestling due to frontman John Darnielle's same childhood passion (albeit
+		with a much less glamorous and commercial form of wrestling), I was incredibly excited. <i>Beat the Champ</i> provides
+		a compelling exploration of the psyche of pro wrestlers with a surprising humanising depth that many of us would rarely consider when
+		it comes to a sport that is often viewed as nothing more than inane and crass entertainment. At times, we also hear of Darnielle's own
+		childhood love of wrestling and how his heroes were always a hope for him against his abusive step-father (<i>"You let me down 
+		but Chavo never once did / You called him names to try to get beneath my skin / Now your ashes are scattered on the wind"</i>).
+		The dynamics of the album also vary widely,	from the bold and brassy horns of <i>"Foreign Object"</i> to the brooding ethereal piano
+		epilogue of <i>"Heel Turn 2"</i>. With <i>Beat the Champ</i>, John Darnielle continues to prove his ability to craft characters
+		and tell poetic stories through his songs. 
+      </div>
+      <div class="album-cover"><img src="images/3.jpg" /></div>
+      <div class="album-links">
+        <a href="https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka">
+          <i class="icon-music"></i>
+          Listen on Spotify
+        </a>
+        <a href="https://www.youtube.com/watch?v=Q9YvDfiAXT8">
+          <i class="icon-facetime-video"></i>
+          Watch on Youtube: “The Legend of Chavo Guerrero”
+        </a>
+      </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">2</div>
+      <div class="album-name">
+		<div class="artist">Titus Andronicus</div>
+		<div class="title">The Most Lamentable Tragedy</div>
+	  </div>
+	  <div class="album-blurb">
+	    Titus Andronicus last featured on my end of year album list back in 2010 with <i>The Monitor</i>, a boisterous anthemic punk album 
+		built around the American Civil War, which back then I charted at number 6. It's fair to say my love for that album only grew over time 
+		and in retrospect, the album would be placed much higher in the list. Two albums later and Titus Andronicus have returned with a
+		93-minute rock opera which, over the course of 30 tracks and five 'acts', details the trials and tribulations of an unnamed characters
+		wrestling with manic depression, as well as attempting the courtship of a woman named Siobhan, which reaches its climax at the toll of midnight
+		on New Years Eve. The result is an album which is, for the most part, cranked up to 11 in almost every aspect, at many points echoing the likes of
+		The Clash, Springsteen and hell, even Meat Loaf (but in the best way, trust me). It's thrashing, brutal, insane, anthemic, cathartic and, on a musical level, 
+		just a shit-load of fun. Titus Andronicus forever!
+	  </div>
+      <div class="album-cover"><img src="images/2.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/6tcFu0TqSurn0s4unYDXSO">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=YKdWBpXlc6E">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: “The Magic Morning”
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-number">1</div>
+      <div class="album-name">
+		<div class="artist">Sufjan Stevens</div>
+		<div class="title">Carrie & Lowell</div>
+	  </div>
+	  <div class="album-blurb">
+	    Every now and then an album comes along which is as devastating as it is beautiful, which has the ability to shift your views on life and death,
+		and change your endeavours as a human being. The last album I remember having this impact on me was The Antlers' <i>Hospice</i>, which I placed
+		at #1 back in 2009. Six years later, <i>Carrie &amp; Lowell</i> by Michigan-born singer-songwriter and multi-instrumentalist Sufjan Stevens is
+		delivering the same emotional impact for me.<br/>
+		<br/>
+		The album is titled after Stevens' mother and stepfather. In 2012, Stevens lost his mother to cancer.
+		She had suffered from drug addiction, as well as being bipolar and schizophrenic, and had abandoned her children on	a number of occasions, 
+		to the point of being estranged from Stevens throughout much of his adult life. On <i>Carrie &amp; Lowell</i>, many of the songs find Stevens
+		struggling with the aftermath of this estrangement and attempting to find a sense of connection and forgiveness with his mother after death (<i>"I forgive
+		you mother / I can hear you and I long to be near you / but every road leads to an end"</i>). Stevens considers how a final conversation between him and his
+		mother after her death would play out in the devastating <i>Fourth of July</i> (<i>"Did you get enough love, my little dove / Why do you cry? / 
+		I’m sorry I left, but it was for the best / Though it never felt right"</i>). It's a crushing listen every single time.<br/>
+		<br/>
+		There are moments of regret (<i>"I should have wrote a letter explaining what I feel, that empty feeling."</i>), alcohol abuse (<i>"Now I'm drunk and afraid,
+		and wishing the world would go away / what's the point of singing songs, if they'll never even hear you?"</i>), struggles of depression and 
+		suicidal thoughts (<i>"Do I care if I survive this?"</i>), but also moments of beauty and hope within hopelessness (<i>"The only reason why I continue at all
+		/ Faith in reason, I wasted my life playing down / Signs and wonders: sea lion caves in the dark / Blind faith, God’s grace, nothing else left to impart"</i>; <i>"My brother had
+		a daughter / the beauty that she brings, illumination"</i>).<br/>
+		<br/>
+		Musically, the album is very much a return to Stevens' stripped-back folk roots, foregoing the over-the-top chaos of <i>Age of Adz</i> and <i>Illinois</i> for what
+		on the surface seems like more straightforward simplicity; however, there is plenty of complexity hidden in the production, a fine example being the ominous bass
+		which rumbles intermittently throughout <i>"Fourth of July"</i>. The melodies on offer are nothing short of beautiful as well, from the shimmering finger-picking of
+		<i>Death with Dignity</i> and <i>The Only Thing</i>, to the tear-jerking fading pulses of <i>John My Beloved</i>.<br/>
+		<br/>
+		<i>Carrie &amp; Lowell</i> is a deeply personal record, full of loss, heartbreak and sorrow, but with lessons of love and hope scattered amongst the wreckage.
+		It's an album that made me love a little more openly and made me appreciate those who close to me more. The best art makes us feel something, but 
+		masterpieces have the power to change us.
+      </div>
+      <div class="album-cover"><img src="images/1.jpg" /></div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE">
+		  <i class="icon-music"></i>
+		  Listen on Spotify
+	    </a>
+		<a href="https://www.youtube.com/watch?v=sizU9irgqsY">
+		  <i class="icon-facetime-video"></i>
+		  Watch on Youtube: “The Only Thing”
+		</a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-honourable">2015 Playlist</div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/user/burkazoid/playlist/5QtVQ1A05uxnhctBVDjCpW">
+		  <i class="icon-music"></i>
+		  Listen on Spotify to a playlist of my top tracks of 2015
+	    </a>
+	  </div>
+    </div>
+
+	<div class="album-entry">
+	  <div class="album-honourable">Honourable Mentions</div>
+	  <div class="album-blurb">Albums which didn't quite make the cut, but which needed a mention:</div>
+      <div class="album-links">
+		<a href="https://open.spotify.com/album/0PHRSp6LwtVw0FDlYPSe92">
+		  <i class="icon-music"></i> Beach Slang - The Things We Do To Find People Like Us
+	    </a>
+        <a href="https://open.spotify.com/album/2Iw6ZVE1gw6HSuRvNirbxg">
+          <i class="icon-music"></i> Caspian - Dust &amp; Disquiet
+        </a>
+        <a href="https://open.spotify.com/album/7eC6sBSIM2MgWdpywd90iU">
+          <i class="icon-music"></i> Nils Frahm - Solo
+        </a>
+        <a href="https://open.spotify.com/album/3rVfXtGiIeKX1nkHXhiN1D">
+          <i class="icon-music"></i> Girl Band - Holding Hands with Jamie
+        </a>
+        <a href="https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu">
+          <i class="icon-music"></i> Helios - Yume
+        </a>
+		<a href="https://open.spotify.com/album/44gVuAW02dJVVepYcMog6e">
+          <i class="icon-music"></i> Jon Hopkins - LateNightTales
+        </a>
+        <a href="https://open.spotify.com/album/4T5b4W36epnvqwRR5aRBsv">
+          <i class="icon-music"></i> Not Squares - Bolts
+        </a>
+        <a href="https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh">
+          <i class="icon-music"></i> Suzanne Sundfor - Ten Love Songs
+        </a>		
+        <a href="https://open.spotify.com/album/0xslWXhRXD9yYL8ZV5n41r">
+          <i class="icon-music"></i> The Tallest Man on Earth - Dark Bird is Home
+        </a>
+        <a href="https://open.spotify.com/album/2jnizA2j37NUyNl8W6JUdx">
+          <i class="icon-music"></i> The Twilight Sad - Oran Mor Sessions
+        </a>
+        <a href="https://open.spotify.com/album/6yJAGomK5rv3uAqJMw5d9n">
+          <i class="icon-music"></i> The World is a Beautiful Place and I Am Not Afraid to Die - Harmlessness
+        </a>		
+	  </div>
+
+    </div>
+
+	<!--#include virtual="../all-years.htm"-->
+
+  </div>
+</body>
+</html>
+
+
