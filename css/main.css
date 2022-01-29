@@ -70,7 +70,7 @@ a:hover {
   float: left;
   padding: 10px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 500px) {
   .social_entry {
     width: 100%;
     padding: 5px;
